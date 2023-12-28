@@ -1,5 +1,7 @@
 # Fact App
 
+![image](https://github.com/hamedaskari/Fact-App/assets/63067445/c14d41fe-906d-45c3-8786-1e984f77b011)
+
 It is created with `Reactjs` and basically it helps you to post a new fact and then people can vote on your fact.
 
 First you should click on the `share a fact` button. Then you share your fact.
